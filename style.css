@@ -1,0 +1,183 @@
+body {
+  background-color: #9ed2c6;
+}
+
+.heading {
+  font-size: 100px;
+  font-family: 'Macondo';
+  width: 400px;
+  padding: 0px 100px;
+  margin: auto;
+  margin-top: 0px;
+}
+
+.name {
+  /* border : 2px solid red; */
+  padding-left: 20px;
+  background-color: #54bab9;
+  border: 2px solid green;
+}
+
+.text {
+  padding-top: 5px;
+  /* padding-left: 15px; */
+  width: 420px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+.dob {
+  /* border : 2px solid red; */
+  padding-left: 20px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+.email {
+  /* border : 2px solid red; */
+  padding-left: 20px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+.branch {
+  /* border : 2px solid red; */
+  height: 35px;
+  padding-left: 20px;
+  padding-top: 10px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+.gender {
+  /* border : 2px solid red; */
+  padding-left: 20px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+.domains {
+  /* border : 2px solid red; */
+  padding-left: 20px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+.checkbox {
+  /* border : 2px solid red; */
+  /* padding-left: 20px; */
+  width: 420px;
+  border: 2px solid green;
+  background-color: #54bab9;
+}
+
+div {
+  font-size: 15px;
+  margin: 10px 400px;
+  width: 400px;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.blank1 {
+  width: 300px;
+  margin: 10px;
+}
+
+.blank2 {
+  width: 300px;
+  margin: 10px 25px;
+}
+
+.blank3 {
+  width: 300px;
+  margin: 10px 10px;
+}
+
+.blank9 {
+
+  margin-left: 12px;
+}
+
+.blank10 {
+
+  margin-left: 80px;
+}
+
+.blank7 {
+  margin-left: 83px;
+}
+
+.blank5 {
+  margin-left: 15px;
+}
+
+#branch {
+  height: 25px;
+  margin-left: 30px;
+}
+
+.card {
+  display: flex;
+  height: 330px;
+  width: 100%;
+  margin: 0px;
+  justify-content: space-evenly;
+}
+
+.item {
+  display: flex;
+  border-radius: 10px;
+  border: 2px solid green;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  padding: 3px;
+  justify-content: center;
+  align-items: center;
+  background-color: #54bab9;
+  transition-property: all;
+
+}
+
+.navbar {
+  border: 2px solid green;
+  border-radius: 10px;
+  width: 100%;
+  height: 50px;
+  background-color: #54bab9;
+}
+
+.navitem {
+  float: left;
+  list-style: none;
+  margin: auto 10px;
+}
+
+.item:hover {
+  width: 320px;
+  height: 320px;
+  font-size: 2em;
+}
+
+.item1 {
+  display: flex;
+  background-color: #54bab9;
+  border-radius: 10px;
+  border: 2px solid green;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  padding: 3px;
+  justify-content: center;
+  align-items: center;
+  transition-property: all;
+}
+
+.item1:hover {
+  width: 320px;
+  height: 320px;
+  font-size: 2em;
+}
